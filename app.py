@@ -9,7 +9,7 @@ from datetime import datetime
 app = Flask(__name__)
 app.secret_key = 'supersecretkey'
 
-OPENROUTER_API_KEY = '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'
+OPENROUTER_API_KEY = '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'
 MODEL_NAME = 'openai/gpt-3.5-turbo-0613'
 ADMIN_PASSWORD = 'fima1456Game!'
 
